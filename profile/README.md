@@ -1,12 +1,3 @@
-## Hi there 👋
+The Weblopers event is an online educational and competitive event designed for individuals interested in learning and developing web technologies. Participation is free, and no prior programming knowledge is required. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Participants can register individually or in teams of up to three. The event covers front-end and back-end development using languages and frameworks like HTML, CSS, JavaScript, React Js, and Django, with a focus on practical, project-based learning. It offers flexibility in learning schedules, support through social media and a ticketing system, and the opportunity for direct engagement with investors for those in the Idea development phase.
